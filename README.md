@@ -6,7 +6,7 @@
 <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=👋+Hii+I+am+Yash+Chaudhari;Full+Stack+Developer;Backend+Developer;Web+Developer'/>
     
 </div>
-<img alt='GIF' src='https://github.com/chaudharijay/chaudharijay/blob/main/Line.gif' width='600' height='400' />
+<img alt='GIF' src='https://github.com/chaudharijay/chaudharijay/blob/main/Line.gif' />
 
 **Full-Stack Web Developer | Building Dynamic and User-Friendly Experiences** 🚀
 
