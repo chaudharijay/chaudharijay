@@ -12,6 +12,8 @@
 
 Hi there! I'm an enthusiastic Full-Stack Web Developer with a strong desire to push the boundaries of innovation. I excel in crafting user-centric web applications and I'm eager to contribute my skills to a fast-paced tech environment where I can collaborate on cutting-edge solutions.
 
+<img alt='GIF' src='https://github.com/chaudharijay/chaudharijay/blob/main/Line.gif' />
+
 **My Toolkit:**
 
 - **Languages:** Proficient in **C**, **JAVA**, and **JavaScript**.
@@ -22,12 +24,15 @@ Hi there! I'm an enthusiastic Full-Stack Web Developer with a strong desire to p
 - **Operating Systems:** Expertise in **Windows**, with good **Linux** skills.
 - **Current Focus:** Deep-diving into **System Design (LLD & HLD)**.
 
+<img alt='GIF' src='https://github.com/chaudharijay/chaudharijay/blob/main/Line.gif' />
 
 **Looking for:**
 
 - Collaborative opportunities to contribute my skills and learn from talented individuals.
 - Projects that utilize my technical expertise and allow me to further develop my knowledge.
 - A dynamic environment that fosters creativity and innovation.
+
+<img alt='GIF' src='https://github.com/chaudharijay/chaudharijay/blob/main/Line.gif' />
 
 **Let's Connect!**
 
@@ -62,7 +67,7 @@ I'm always open to connecting with other developers and exploring exciting oppor
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-
+<img alt='GIF' src='https://github.com/chaudharijay/chaudharijay/blob/main/Line.gif' />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaudharijay" alt="chaudharijay" /></a> </p>
 
