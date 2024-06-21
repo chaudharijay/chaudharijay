@@ -1,6 +1,6 @@
 
 <p align='center'>
-    <img alt='GIF' src='chaudharijay/chauadharijay/profile-3d-contrib/code.gif' width='600' height='400' />
+    <img alt='GIF' src='https://github.com/chaudharijay/chaudharijay/blob/main/code.gif' width='600' height='400' />
 </p>
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=👋+Hii+I+am+Yash+Chaudhari;Full+Stack+Developer;Backend+Developer;Web+Developer'/>
