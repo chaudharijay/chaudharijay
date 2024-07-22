@@ -87,8 +87,8 @@ I'm always open to connecting with other developers and exploring exciting oppor
 
 
 <p align="center">
+    ![chaudharijay's Stats](https://github-readme-stats.vercel.app/api?username=chaudharijay&theme=omni&show_icons=true&hide_border=true&count_private=true)
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=chaudharijay&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=नमस्ते 🙏 Programmers!&layout=compact"/><br><br>
     <img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharijay&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
     <img align="center" width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaudharijay&theme=radical" />
   </a>
