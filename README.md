@@ -47,7 +47,7 @@ I'm always open to connecting with other developers and exploring exciting oppor
 <br>
 <p align='center'>
   
-   <img width="25%" src="https://komarev.com/ghpvc/?username=chaudharijay&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharijay" />
+   <img width="20%" src="https://komarev.com/ghpvc/?username=chaudharijay&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharijay" />
     <a href='https://www.linkedin.com/in/yash-chaudhari-a100451ab' target='_blank'>
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a>
