@@ -47,7 +47,7 @@ I'm always open to connecting with other developers and exploring exciting oppor
 <br>
 <p align='center'>
   
-   <img width="20%" src="https://komarev.com/ghpvc/?username=chaudharijay&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharijay" />
+   <img width="25%" src="https://komarev.com/ghpvc/?username=chaudharijay&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharijay" />
     <a href='https://www.linkedin.com/in/yash-chaudhari-a100451ab' target='_blank'>
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a>
@@ -83,12 +83,11 @@ I'm always open to connecting with other developers and exploring exciting oppor
 </p>
 
 
-### :zap: GitHub Stats
+###  GitHub Stats
 
+![chaudharijay's Stats](https://github-readme-stats.vercel.app/api?username=chaudharijay&theme=omni&show_icons=true&hide_border=true&count_private=true)
 
 <p align="center">
-    
-    ![chaudharijay's Stats](https://github-readme-stats.vercel.app/api?username=chaudharijay&theme=omni&show_icons=true&hide_border=true&count_private=true)
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharijay&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
     <img align="center" width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaudharijay&theme=radical" />
