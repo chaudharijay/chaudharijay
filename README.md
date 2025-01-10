@@ -10,19 +10,21 @@
 
 **Full-Stack Web Developer | Building Dynamic and User-Friendly Experiences** 🚀
 
-Hi there! I'm an enthusiastic Full-Stack Web Developer with a strong desire to push the boundaries of innovation. I excel in crafting user-centric web applications and I'm eager to contribute my skills to a fast-paced tech environment where I can collaborate on cutting-edge solutions.
+Hi there! I’m a Full-Stack Developer and Data Scientist—think of me as the matchmaker between sleek web apps and data-driven genius. I code, I crunch numbers, and I love turning chaos into innovation. Let’s build something brilliant (and maybe a little nerdy)!
 
 <img alt='GIF' src='https://github.com/chaudharijay/chaudharijay/blob/main/Line.gif' />
 
 **My Toolkit:**
 
-- **Languages:** Proficient in **C**, **JAVA**, and **JavaScript**.
+- **Languages:** Proficient in **PYTHON**, **JAVASCRIPT**, and **R**.
 - **Web Development:** Expertise in **React.js**, **Next.js**, **Express.js**, **HTML**, **CSS**, **Bootstrap**, **Node.js**, , and proficient in **API integration**.
+- **Data Science:** Experiencd in **Data Preprocessing**, **EDA**, **Feature Engineering**, **Data Visualization** using tools like **Matplotlib** and **Seaborn** and **Statistical Analysis** for deriving actionable insights.
+- **Machine Learning:** Skilled in building and deploying **Machine Learning** and **Deep Learning** models using **Scikit-learn**, **TensorFlow**, and **Keras**. Proficient in **Natural Language Processing (NLP)** with tools like **Sentence Transformers** and techniques like **hierarchical clustering**.
 - **Databases:** Skilled in **MongoDB** and **MySQL**.
 - **Development Tools:** Familiar with **Git**, **Canva**, **Figma**.
 - **Cloud:** Knowledgeable with solid practice in **GCP** during my college tenure.
 - **Operating Systems:** Expertise in **Windows**, with good **Linux** skills.
-- **Current Focus:** Deep-diving into **System Design (LLD & HLD)**.
+- **Current Focus:** Deep-diving into **System Design (LLD & HLD)** and **Advanced Machine Learning Techniques**.
 
 <img alt='GIF' src='https://github.com/chaudharijay/chaudharijay/blob/main/Line.gif' />
 
